@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.game2048.TestAddingValue" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-01-03T15:21:32" hostname="DESKTOP-9A9AT5M" time="0.047">
+  <properties/>
+  <testcase name="test1" classname="games.game2048.TestAddingValue" time="0.041"/>
+  <testcase name="test2" classname="games.game2048.TestAddingValue" time="0.001"/>
+  <testcase name="test3" classname="games.game2048.TestAddingValue" time="0.001"/>
+  <testcase name="test4" classname="games.game2048.TestAddingValue" time="0.003"/>
+  <system-out><![CDATA[Random cell (2, 2) 
+Boolean true
+Random cell (4, 3) 
+Boolean true
+Random cell (2, 2) 
+Boolean true
+Random cell (3, 3) 
+Boolean true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bf15632-aa3e-49ee-8759-f04dbb475532" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Kotlin_for_Java_Developers._Week_5" />
+  </component>
+  <component name="ProjectId" id="1Vq4SQhAEt0FRyTpTX65CNHtmDS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kotlin for Java Developers. Week 4/Rationals/Task" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.games.ui.PlayGameOfFifteenKt">
+    <configuration name="TestGameOfFifteen" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.gameOfFifteen.TestGameOfFifteen&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGameOfFifteenHelper" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.gameOfFifteen.TestGameOfFifteenHelper&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGameOfFifteenInitializer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.gameOfFifteen.TestGameOfFifteenInitializer&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="games.ui.PlayGame2048Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="games.ui.PlayGame2048Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="games.ui.PlayGameOfFifteenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="games.ui.PlayGameOfFifteenKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.games.ui.PlayGameOfFifteenKt" />
+        <item itemvalue="Gradle.TestGameOfFifteen" />
+        <item itemvalue="Gradle.TestGameOfFifteenInitializer" />
+        <item itemvalue="Gradle.TestGameOfFifteenHelper" />
+        <item itemvalue="Kotlin.games.ui.PlayGame2048Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf15632-aa3e-49ee-8759-f04dbb475532" name="Default Changelist" comment="" />
+      <created>1577967291065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577967291065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578001350101">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578001350100" />
+    <state x="591" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1578063331900">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="591" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578063331900" />
+    <state x="580" y="191" key="FileChooserDialogImpl" timestamp="1578142237983">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="191" key="FileChooserDialogImpl/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578142237983" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1578064826890">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578064826890" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1578064826890">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578064826890" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1578064826890">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578064826890" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1578064826890">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578064826890" />
+    <state x="495" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1578142172880">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="495" y="260" key="com.intellij.ide.util.TipDialog/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578142172880" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1578059420564">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1578059420564" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotlin_for_Java_Developers__Week_5$TestGame2048Initializer.ic" NAME="TestGame2048Initializer Coverage Results" MODIFIED="1578000756184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
